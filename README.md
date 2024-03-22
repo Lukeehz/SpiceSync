@@ -2,7 +2,7 @@
 
 SpiceSync é um aplicativo de receitas online que oferece uma variedade de recursos para ajudá-lo a descobrir, salvar e compartilhar suas receitas favoritas.
 
-j![OIG1](https://github.com/Lukeehz/SpiceSync/assets/100373893/14f1511d-1fcf-44de-bf47-daf29e0fcda9)
+[OIG1](https://github.com/Lukeehz/SpiceSync/assets/100373893/14f1511d-1fcf-44de-bf47-daf29e0fcda9)
 
 ## Funcionalidades Principais
 
